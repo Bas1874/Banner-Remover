@@ -1,4 +1,5 @@
 /// <reference path="./plugin.d.ts" />
+X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
 
 function init() {
     $ui.register((ctx) => {
@@ -91,4 +92,6 @@ function init() {
         // Use the context-specific setTimeout for the initial run.
         ctx.setTimeout(applyStyles, 500);
     });
+
 }
+
